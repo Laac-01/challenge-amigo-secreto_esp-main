@@ -1,0 +1,4 @@
+Juego amigo secreto
+
+Funcionalaidades:
+
